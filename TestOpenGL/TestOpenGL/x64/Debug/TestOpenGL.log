@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+F:\OpenGL\includes\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+E:\OpenGl\TestOpenGL\TestOpenGL\main.cpp(228,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TestOpenGL.vcxproj -> E:\OpenGl\TestOpenGL\x64\Debug\TestOpenGL.exe
